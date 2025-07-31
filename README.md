@@ -1,8 +1,11 @@
 # 🤖 J.A.R.V.I.S – Virtual AI Assistant
 
-A voice-controlled virtual AI assistant built using **Gemini AI** and **Web Speech API**, designed to make your web interactions faster and smarter! 🌐🎙️
+A voice-controlled virtual AI assistant built using **Gemini AI** and **MERN Stack**, designed to make your web interactions faster and smarter! 🌐🎙️
 
 ---
+
+🎥 Demo
+👉 👉 https://virtual-assistant-frontend-5bqi.onrender.com/
 
 ## ✨ Features
 
@@ -54,7 +57,3 @@ npm start
 # In a new terminal, run frontend
 cd client
 npm start
-
-🎥 Demo
-👉 👉 https://virtual-assistant-frontend-5bqi.onrender.com/
-
