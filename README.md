@@ -51,11 +51,9 @@ Create .env files for both frontend and backend. Add your keys (Mongo URI, JWT s
 4. Start the Project
 # Run backend
 npm start
-
 # In a new terminal, run frontend
 cd client
 npm start
-
 
 🎥 Demo
 👉 👉 https://virtual-assistant-frontend-5bqi.onrender.com/
