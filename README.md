@@ -59,6 +59,4 @@ npm start
 
 🎥 Demo
 👉 👉 https://virtual-assistant-frontend-5bqi.onrender.com/
-# In a new terminal, run frontend
-cd client
-npm start
+
