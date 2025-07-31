@@ -1,6 +1,6 @@
 # 🤖 J.A.R.V.I.S – Virtual AI Assistant
 
-A voice-controlled virtual AI assistant built using **MERN stack** and **Gemini AI**, designed to make your web interactions faster and smarter! 🌐🎙️
+A voice-controlled virtual AI assistant built using **Gemini AI** and **Web Speech API**, designed to make your web interactions faster and smarter! 🌐🎙️
 
 ---
 
@@ -38,3 +38,27 @@ A voice-controlled virtual AI assistant built using **MERN stack** and **Gemini 
    ```bash
    git clone https://github.com/yourusername/jarvis-ai.git
    cd jarvis-ai
+   
+2. Install Dependencies
+
+npm install   # For backend
+cd client
+npm install   # For frontend
+
+3. Setup Environment Variables
+Create .env files for both frontend and backend. Add your keys (Mongo URI, JWT secret, Cloudinary keys, etc.).
+
+4. Start the Project
+# Run backend
+npm start
+
+# In a new terminal, run frontend
+cd client
+npm start
+
+
+🎥 Demo
+👉 👉 https://virtual-assistant-frontend-5bqi.onrender.com/
+# In a new terminal, run frontend
+cd client
+npm start
